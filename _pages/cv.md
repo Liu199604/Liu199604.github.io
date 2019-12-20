@@ -11,4 +11,4 @@ redirect_from:
 
 
   
-Here you can find my CV.
+Here you can find my [CV](http://wenruiustc.github.io/files/resume_cv.pdf).
