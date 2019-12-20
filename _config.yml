@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Wen(文锐)"
+title                    : "Rui Wen / 文锐"
 title_separator          : "-"
-name                     : &name "Rui Wen / 文锐"
+name                     : &name "Rui Wen"
 description              : &description "first-year Ph.D. student at CISPA"
 url                      : https://wenruiustc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
