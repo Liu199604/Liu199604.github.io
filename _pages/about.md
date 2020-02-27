@@ -12,4 +12,4 @@ I graduate from Architectural Engineering Institude of Zhejiang University. My B
 
 My interested fields include QA system and neural machine translation in NLP. And recently I also have some interests in machine learning security and privacy.
 
-From July 2018 to Sep 2018, I did my summer research at Waseda University.We did the prediction of electricity consumpition by using neural networks and distinguished the print errors of student cards by using CNN. These researches were under the supervision of [Prof. Fujimura Shigeru](https://www.waseda.jp/fsci/gips/other/2015/07/15/271/).
+From July 2018 to Sep 2018, I did my summer research at Waseda University.We did the prediction of electricity consumption by using neural networks and distinguished the print errors of student cards by using CNN. These researches were under the supervision of [Prof. Fujimura Shigeru](https://www.waseda.jp/fsci/gips/other/2015/07/15/271/).
