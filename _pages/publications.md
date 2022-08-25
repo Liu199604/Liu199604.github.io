@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-**[Auditing Membership Leakages of Multi-Exit Networks](https://liu199604.github.io/publications/)**
+**[Auditing Membership Leakages of Multi-Exit Networks](https://arxiv.org/abs/2208.11180)**
 
 Zheng Li, **Yiyong Liu**, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
 
