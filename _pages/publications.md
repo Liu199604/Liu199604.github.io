@@ -23,3 +23,11 @@ Zheng Li, **Yiyong Liu**, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
 *In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)*
 
 &nbsp; 
+
+**[Membership Inference Attacks by Exploiting Loss Trajectory](https://arxiv.org/abs/2208.14933)**
+
+**Yiyong Liu**, Zhengyu Zhao, Michael Backes, Yang Zhang
+
+*In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)*
+
+&nbsp; 
