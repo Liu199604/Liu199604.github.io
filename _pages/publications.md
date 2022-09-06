@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-**[Auditing Membership Leakages of Multi-Exit Networks](https://arxiv.org/abs/2208.11180)** [[pdf](https://github.com/Liu199604/Liu199604.github.io/blob/master/files/CCS22-MultiExit.pdf)] [[code](https://github.com/zhenglisec/Multi-Exit-Privacy)]
+**[Auditing Membership Leakages of Multi-Exit Networks](https://arxiv.org/abs/2208.11180)** [[pdf](http://Liu199604.github.io/files/CCS22-MultiExit.pdf)] [[code](https://github.com/zhenglisec/Multi-Exit-Privacy)]
 
 Zheng Li, **Yiyong Liu**, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
 
@@ -24,7 +24,7 @@ Zheng Li, **Yiyong Liu**, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
 
 &nbsp; 
 
-**[Membership Inference Attacks by Exploiting Loss Trajectory](https://arxiv.org/abs/2208.14933)** [[pdf](https://github.com/Liu199604/Liu199604.github.io/blob/master/files/CCS22_TrajectoryMIA.pdf)] [[code](https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory)]
+**[Membership Inference Attacks by Exploiting Loss Trajectory](https://arxiv.org/abs/2208.14933)** [[pdf](http://Liu199604.github.io/files/CCS22_TrajectoryMIA.pdf)] [[code](https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory)]
 
 **Yiyong Liu**, Zhengyu Zhao, Michael Backes, Yang Zhang
 
