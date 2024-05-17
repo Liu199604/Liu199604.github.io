@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student at [CISPA](https://cispa.de/en), [Saarland University](https://www.uni-saarland.de/en/home.html), and co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Xiao Zhang](https://xiao-zhang.net/). Before that I graduated from Architectural Engineering Institude of Zhejiang University.
+I'm a second-year Ph.D. student at [CISPA](https://cispa.de/en), [Saarland University](https://www.uni-saarland.de/en/home.html), and supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page). Before that I graduated from Architectural Engineering Institude of Zhejiang University.
 
 My interested field is machine learning security and privacy, and recently I focus on adversarial machine learning.
 
