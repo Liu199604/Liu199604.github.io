@@ -32,7 +32,7 @@ Zheng Li, **Yiyong Liu**, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
 
 &nbsp; 
 
-**[SoK: Data Reconstruction Attacks Against Machine Learning Models: Definition, Metrics, and Benchmark](https://arxiv.org/pdf/2506.07888?)** [[pdf](http://Liu199604.github.io/files/reconstruction_usenix_2025.pdf)] [[code](https://zenodo.org/records/15603060)]
+**[SoK: Data Reconstruction Attacks Against Machine Learning Models: Definition, Metrics, and Benchmark](https://arxiv.org/pdf/2506.07888?)** \[[pdf](http://Liu199604.github.io/files/Reconstruction_usenix_2025.pdf)] [[code](https://zenodo.org/records/15603060)]
 
 Rui Wen<sup>＊</sup>, **Yiyong Liu<sup>＊</sup>**, Michael Backes, Yang Zhang (<sup>＊</sup>Equal Contribution)
 
