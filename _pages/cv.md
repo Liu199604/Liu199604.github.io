@@ -11,4 +11,4 @@ redirect_from:
 
 
   
-Here you can find my [CV](http://Liu199604.github.io/files/Awesome_CV.pdf).
+Here you can find my [CV](http://Liu199604.github.io/files/Liu_Yiyong_CV_no_references.pdf).
